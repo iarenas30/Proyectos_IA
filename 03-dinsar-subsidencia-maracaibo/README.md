@@ -16,4 +16,4 @@ Estudio de la subsidencia del terreno en la Costa Oriental del Lago de Maracaibo
 ## Resultados
 - Mapas de deformación del terreno para la Costa Oriental del Lago.
 - Tasas de hundimiento anual cuantificadas.
-- Identificación de las zonas más afectadas por subsidencia, con relevancia directa para la gestión de riesgo de infraestructura y planificación territorial en la región.[3. SUBSIDENCIA ARTICULO.pdf](https://github.com/user-attachments/files/31865614/3.SUBSIDENCIA.ARTICULO.pdf)
+- Identificación de las zonas más afectadas por subsidencia, con relevancia directa para la gestión de riesgo de infraestructura y planificación territorial en la región.
